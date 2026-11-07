@@ -1,2 +1,4 @@
 
 data/*.csv
+.env
+granite_embeddings.npy

@@ -9,3 +9,7 @@ install this
 pip install torch torchvision torchaudio
 pip install accelerate
 pip install transformers
+
+
+
+If you are on the copy Xavier, you need to have a .env file with GEMINI_API_KEY="apikey"
