@@ -6,4 +6,3 @@ pip install sentence-transformers
 pip install -q google-genai
 pip install granite-tsfm
 pip install elevenlabs
-pip install -U transformers accelerate torch
