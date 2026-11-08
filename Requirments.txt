@@ -1,3 +1,4 @@
+notes: Depending on system could be pip3 instead 
 pip install torch torchvision torchaudio
 pip install accelerate
 pip install transformers
@@ -5,3 +6,4 @@ pip install sentence-transformers
 pip install -q google-genai
 pip install granite-tsfm
 pip install elevenlabs
+pip install -U transformers accelerate torch
