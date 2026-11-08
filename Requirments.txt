@@ -4,3 +4,4 @@ pip install transformers
 pip install sentence-transformers
 pip install -q google-genai
 pip install granite-tsfm
+pip install elevenlabs
